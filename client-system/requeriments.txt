@@ -1,4 +1,0 @@
-pip install keyboard
-pip install requests
-pip install pyperclip
-pip install auto-py-to-exe

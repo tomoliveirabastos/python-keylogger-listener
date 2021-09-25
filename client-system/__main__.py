@@ -4,5 +4,5 @@ from _workerHandler import _workerHandler
 
 import time
 if __name__ == "__main__" :
-       _workerHandler().start()
+       # _workerHandler().start()
        _keyboardHandler().initialize()
